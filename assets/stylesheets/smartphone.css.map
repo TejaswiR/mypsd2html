@@ -1,6 +1,6 @@
 {
 "version": 3,
-"mappings": "AAAA,WAAW;EACT,QAAQ,EAAE,QAAQ;EAClB,gBAAgB,EAAE,GAAG;EACrB,eAAe,EAAE,KAAK",
+"mappings": "AAAA,WAAW;EACT,QAAQ,EAAE,QAAQ;EAClB,gBAAgB,EAAE,OAAO;EACzB,eAAe,EAAE,KAAK",
 "sources": ["src/smartphone.scss"],
 "names": [],
 "file": "smartphone.css"
