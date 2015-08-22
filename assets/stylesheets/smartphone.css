@@ -1,6 +1,16 @@
 #smartphone {
   position: relative;
   background-color: #F4B350;
-  background-size: cover; }
+  background-size: cover;
+  width: 100%; }
+  #smartphone h3 {
+    font-size: 40px; }
+  #smartphone .img-container {
+    padding: 0; }
+  #smartphone .btn-default {
+    background-color: transparent;
+    border: 2px solid; }
+  #smartphone .data p {
+    font-size: 15px; }
 
 /*# sourceMappingURL=smartphone.css.map */

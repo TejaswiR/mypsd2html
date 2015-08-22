@@ -4,7 +4,9 @@ module.exports = function(grunt) {
       dist: {                            // Target 
         files: {                         // Dictionary of files 
           'assets/stylesheets/styles.css': 'assets/stylesheets/src/styles.scss' ,
-           'assets/stylesheets/smartphone.css': 'assets/stylesheets/src/smartphone.scss'   
+           'assets/stylesheets/smartphone.css': 'assets/stylesheets/src/smartphone.scss',
+           'assets/stylesheets/info.css': 'assets/stylesheets/src/info.scss',
+           'assets/stylesheets/features.css': 'assets/stylesheets/src/features.scss'   
         }
       }
     },
@@ -17,7 +19,12 @@ module.exports = function(grunt) {
      cssmin: {
           target: {
           files: {
-            'assets/stylesheets/app.min.css': ['assets/stylesheets/styles.css', 'assets/stylesheets/smartphone.css']
+            'assets/stylesheets/app.min.css': [
+            'assets/stylesheets/styles.css',
+             'assets/stylesheets/smartphone.css',
+             'assets/stylesheets/info.css',
+             'assets/stylesheets/features.css'
+             ]
           }
         }
       }

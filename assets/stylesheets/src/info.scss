@@ -1,0 +1,27 @@
+#carousel9 {
+  background-image: url("../images/winter.jpg");
+  background-size: 100% 100%;
+  width: 100%;
+  min-height: 50vh;
+  font-family: 'Lato', sans-serif;
+ }
+
+ #myCarousel{
+ height:30vh;
+ width:90%;
+ .carousel-inner{
+  margin-top: 30vh;
+  img{
+   margin-left: 20vw;
+   display: block;
+   margin: 0 auto;
+   border-radius: 100%;
+  }
+  .carousel-caption {
+    padding:0;
+    position:relative;
+    margin-top:2%;
+    left:-1%;
+  }
+ }
+}

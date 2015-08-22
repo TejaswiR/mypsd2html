@@ -2,4 +2,26 @@
   position: relative;
   background-color: #F4B350;
   background-size: cover;
+  width: 100%;
+
+  h3{
+    font-size: 40px;
+  }
+ 
+ .img-container {
+  padding: 0;
+  }
+
+  .btn-default {
+   background-color: transparent;
+   border: 2px solid;
+  }
+
+  .data{
+    p{
+      font-size:15px;
+    }
+  }
 }
+
+

@@ -1,0 +1,19 @@
+#features h1 {
+  text-transform: uppercase;
+  font-size: 60%; }
+#features p {
+  color: #7a8387;
+  font-size: 16px;
+  word-spacing: 2px;
+  line-height: 30px; }
+#features .try-btn {
+  background-color: #f69679;
+  border-radius: 3px;
+  font-size: 17px;
+  color: #fff;
+  transition: all 0.5s ease;
+  display: inline-block;
+  padding: 15px 50px;
+  margin: 70px 0 70px 88px; }
+
+/*# sourceMappingURL=features.css.map */
