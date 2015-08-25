@@ -1,0 +1,30 @@
+#footer {
+  background-color: #7accc8; }
+  #footer .row {
+    margin-top: 7vmin; }
+  #footer .paragraph {
+    font-weight: 400; }
+    #footer .paragraph p {
+      color: #fff;
+      line-height: 30px;
+      font-size: 13px;
+      padding-top: 50px;
+      padding-left: 100px; }
+  #footer .footer-navbar {
+    padding-top: 20%;
+    list-style: none;
+    padding-left: 3%; }
+    #footer .footer-navbar li a {
+      display: block;
+      color: #fff;
+      padding: 5px;
+      font-size: 15px; }
+  #footer .tagline {
+    background-color: #7accc8; }
+    #footer .tagline p {
+      font-size: 15px;
+      letter-spacing: 2px;
+      color: #fff;
+      padding-top: 1%; }
+
+/*# sourceMappingURL=footer.css.map */

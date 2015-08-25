@@ -1,0 +1,39 @@
+#footer{
+  background-color: #7accc8;
+  .row{
+    margin-top: 7vmin;
+  }
+  .paragraph{
+    font-weight: 400;
+  p{
+    color: #fff;
+    line-height: 30px;
+    font-size:13px;
+    padding-top: 50px;
+    padding-left: 100px;
+  }
+}
+  .footer-navbar{
+    padding-top : 20%;
+    list-style: none;
+    padding-left: 3%;
+    li{
+      a{
+        display: block;
+        color: #fff;
+        padding: 5px;
+        font-size: 15px;
+      }
+    }
+  }
+  
+  .tagline{
+    background-color: #7accc8;
+    p{
+      font-size: 15px;
+      letter-spacing: 2px;
+      color: #fff;
+      padding-top: 1%;
+    }
+  }
+}
