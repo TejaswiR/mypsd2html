@@ -39,5 +39,10 @@
     font-size: 38px;
     font-weight: 300;
     margin-top: 0; }
+  #carousel .controls .prev {
+    margin-right: 5px; }
+  #carousel .controls a {
+    color: #959595;
+    transition: all 0.5s ease; }
 
 /*# sourceMappingURL=ending.css.map */

@@ -4,13 +4,22 @@
   background-size: cover;
   width: 100%; }
   #smartphone h3 {
-    font-size: 40px; }
+    font-size: 40px;
+    color: #fff;
+    font-weight: 100; }
   #smartphone .img-container {
     padding: 0; }
   #smartphone .btn-default {
     background-color: transparent;
-    border: 2px solid; }
+    border: 2px solid #fff; }
+    #smartphone .btn-default:hover {
+      text-decoration: none;
+      border-color: #a58347;
+      color: #a58347; }
+  #smartphone .btn {
+    color: #fff; }
   #smartphone .data p {
-    font-size: 15px; }
+    font-size: 15px;
+    color: #fff; }
 
 /*# sourceMappingURL=smartphone.css.map */

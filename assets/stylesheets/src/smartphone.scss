@@ -6,6 +6,8 @@
 
   h3{
     font-size: 40px;
+    color:#fff;
+    font-weight: 100;
   }
  
  .img-container {
@@ -14,12 +16,21 @@
 
   .btn-default {
    background-color: transparent;
-   border: 2px solid;
+   border: 2px solid #fff;
+   &:hover{
+    text-decoration: none;
+    border-color: #a58347;
+    color: #a58347;
+   }
+  }
+  .btn{
+    color:#fff;
   }
 
   .data{
     p{
       font-size:15px;
+      color:#fff;
     }
   }
 }
