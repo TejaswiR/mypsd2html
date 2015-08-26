@@ -9,7 +9,7 @@
   height: 30vh;
   width: 90%; }
   #myCarousel .carousel-inner {
-    margin-top: 30vh; }
+    margin-top: 20vh; }
     #myCarousel .carousel-inner img {
       margin-left: 20vw;
       display: block;
@@ -20,5 +20,10 @@
       position: relative;
       margin-top: 2%;
       left: -1%; }
+      #myCarousel .carousel-inner .carousel-caption p {
+        font-size: 43px;
+        font-weight: 100;
+        margin: 20px 0 80px 0;
+        font-style: italic; }
 
 /*# sourceMappingURL=info.css.map */
