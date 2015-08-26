@@ -6,10 +6,10 @@
   font-family: 'Lato', sans-serif; }
 
 #myCarousel {
-  height: 30vh;
+  height: 50vh;
   width: 90%; }
   #myCarousel .carousel-inner {
-    margin-top: 20vh; }
+    margin-top: 30vh; }
     #myCarousel .carousel-inner img {
       margin-left: 20vw;
       display: block;
